@@ -8,7 +8,7 @@ In order to start learning how to develop a smart contract in Solana using the [
 
 After getting familiar with the different types of Solana accounts, we are ready to run and test this code.
 
-# Steps
+## Steps
 
 1. Start a new Seahorse project in the [Solana playground](https://beta.solpg.io/). 
 2. Copy the Seahorse code of the corresponding file.
